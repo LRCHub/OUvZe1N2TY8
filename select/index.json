@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Fake-Perfect",
+  "base_artist": "yousti",
+  "createdAt": "2025-12-29T04:35:31.477506Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fake‐Perfect",
+      "artist": "yousti",
+      "has_synced": false,
+      "path": "select/pl_01_Fake‐Perfect_yousti.txt"
+    }
+  ]
+}
