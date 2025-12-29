@@ -1,0 +1,59 @@
+# yousti – Fake-Perfect
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+弱い自分奥底に隠して
+さあ Fake-Perfection
+(Don't ask to be my true self)
+誰にも見せないわ最後まで
+Keep Fake-Perfection
+メイクアップは 2hours
+シワひとつないTシャツ
+理想の自分詰め込んで
+輝き放つアクセ
+香水もまとって
+何か隠すよう着飾るの
+ありのままのきみがいいと
+聞こえるのその優しげなWords
+素顔の個性認めてくれる
+この世界はI do think its great, but.
+鏡が言うSo boring
+裸のまま私は生きれないから
+Hide it! Hide it! Hide it! now!
+ドレスアップして強くなるのよ
+綺麗な私だけをみて
+シルバーリングも派手なカラコンも
+嫌わないための武器
+弱い自分奥底に隠して
+さぁ Fake-Perfection
+溢れかえる洋服入りきらないコスメ
+処分する気はなくてファッションショーひとりで
+キャンバスから余白を無くすようにペイント
+ランウェイモデルのように背筋伸ばす方法
+好きな Music 始めた趣味
+結局はただのJust a copycat
+身包み剥いだ私は誰だ
+狭い世界でまた Losing myself
+自分でも自分を知るのが怖くて
+重ねる仮面
+Hide it! Hide it! Hide it! now!
+ドレスアップして強くなるのよ
+教えないわ本当の私は
+揺れるピアスも光るネイルも
+胸張っているための武器
+何を言われようと今はこのままでいいの
+Lies and truth 混ざって
+I'll love my true self
+Hide it! Hide it! Hide it!
+Hide it! Hide it! Hide it! now!
+ドレスアップして強くなるのよ
+綺麗な私だけをみて
+シルバーリングも派手なカラコンも
+嫌わないための武器
+弱い自分奥底に隠して
+さぁ Fake-Perfection
+(Don't ask me to be my true self)
+誰にも見せないわ最後まで
+Keep Fake-Perfection
+```
